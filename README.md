@@ -6,7 +6,7 @@
 
 **好吧，说的有点啰嗦，直接上图：**
 
-![](C:\Users\Administrator\Desktop\csv.png)
+![](https://github.com/xyu100/dinning_room/blob/master/csv.png)
 
 根据小伙伴的要求，我作了一段代码如下：（文件是another_dinning.py）
 
